@@ -1,4 +1,4 @@
-Arduino Code for sensors and serial communication:
+//Arduino Code for sensors and serial communication:
 
 #include <SimpleDHT.h>
 int pinDHT11 = 2;
