@@ -1,3 +1,5 @@
+//Arduino code(Dumped on Arduino)
+
 #include <SimpleDHT.h>
 int pinDHT11 = 2;
 SimpleDHT11 dht11(pinDHT11);
